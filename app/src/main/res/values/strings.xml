@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RIVERWISE</string>
+    <string name="spinner1_prompt">Select Option 1</string>
+    <string name="spinner2_prompt">Select Option 2</string>
+    <string name="hint_spinner1">Select a District</string>
+    <string name="hint_spinner2">Select an Upazila</string>
+</resources>

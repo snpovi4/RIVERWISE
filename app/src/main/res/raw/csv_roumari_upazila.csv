@@ -1,0 +1,51 @@
+_index,_Record your current location_latitude,_Record your current location_longitude,Name,Age group,Building type,Income group,Occupation,Disability
+1,25.594052,89.827005,Abdul Rahman,0-14,Pucca,10000-20000,Farming,No
+2,25.591816,89.829042,Fatima Begum,15-59,Pucca,10000-20000,Farming,No
+3,25.592934,89.82769,Akbar Ali,15-59,Pucca,10000-20000,Farming,No
+4,25.591894,89.829042,Ayesha Khatun,0-14,Tinshed,<10000,Farming,No
+5,25.594105,89.826998,Hasan Ahmed,0-14,Tinshed,<10000,Farming,No
+6,25.594497,89.827009,Nasrin Akter,15-59,Tinshed,<10000,Farming,No
+7,25.594502,89.827009,Jahangir Mia,15-59,Tinshed,<10000,Farming,No
+8,25.594386,89.827123,Khadija Yasmin,0-14,Tinshed,<10000,Aquaculture,No
+9,25.594391,89.827123,Faruk Hossain,15-59,Tinshed,10000-20000,Aquaculture,No
+10,25.594376,89.827122,Salma Aktar,15-59,Tinshed,10000-20000,Aquaculture,No
+11,25.593297,89.828489,Ahmed Hossain,0-14,Pucca,20001-30000,Business,No
+12,25.593282,89.828494,Rina Begum,0-14,Pucca,20001-30000,Business,No
+13,25.593282,89.8285,Kamal Uddin,0-14,Pucca,20001-30000,Business,Yes
+14,25.593278,89.828516,Amina Islam,15-59,Pucca,20001-30000,Business,No
+15,25.593307,89.828446,Shahid Khan,15-59,Pucca,20001-30000,Business,No
+16,25.593287,89.828462,Nazma Begum,59+,Pucca,20001-30000,Business,No
+17,25.593132,89.828575,Abdul Aziz,0-14,Tinshed,10000-20000,Day labour,No
+18,25.593829,89.828505,Yasir Rahman,15-59,Tinshed,10000-20000,Day labour,No
+19,25.593844,89.8285,Rehana Akter,15-59,Tinshed,10000-20000,Day labour,No
+20,25.594603,89.827491,Ismail Mia,0-14,Pucca,20001-30000,Service,No
+21,25.594623,89.827491,Sabina Yasmin,15-59,Pucca,20001-30000,Service,No
+22,25.594618,89.827491,Nurul Islam,15-59,Pucca,20001-30000,Service,No
+23,25.594613,89.827486,Shefali Khatun,59+,Pucca,<10000,Service,No
+24,25.594618,89.827502,Mansur Ali,0-14,Pucca,<10000,Service,No
+25,25.59141,89.829475,Anika Ahmed,0-14,Pucca,30001-50000,Aquaculture,No
+26,25.591468,89.829513,Rafiqul Islam,0-14,Pucca,30001-50000,Aquaculture,No
+27,25.59142,89.829514,Rezwana Begum,0-14,Pucca,<10000,Aquaculture,No
+28,25.591434,89.829487,Ali Hasan,0-14,Pucca,<10000,Aquaculture,No
+29,25.591468,89.829508,Yasmin Sultana,15-59,Pucca,30001-50000,Aquaculture,No
+30,25.591396,89.829492,Asad Uddin,15-59,Pucca,<10000,Aquaculture,No
+31,25.591429,89.829492,Sabiha Khan,59+,Pucca,<10000,Aquaculture,No
+32,25.59142,89.829514,Jahirul Haque,59+,Pucca,<10000,Aquaculture,Yes
+33,25.592155,89.833424,Laila Begum,0-14,Tinshed,<10000,Craft,No
+34,25.59216,89.833371,Nurul Amin,0-14,Tinshed,<10000,Craft,No
+35,25.59217,89.833419,Rukhsana Akter,15-59,Tinshed,<10000,Craft,No
+36,25.592199,89.833387,Harun Mia,15-59,Tinshed,<10000,Craft,No
+37,25.593854,89.828502,Samina Islam,0-14,Pucca,10000-20000,Business,No
+38,25.593849,89.828502,Shahinur Rahman,0-14,Pucca,20001-30000,Business,No
+39,25.593844,89.828501,Rokeya Begum,15-59,Pucca,20001-30000,Business,No
+40,25.593844,89.828496,Abdul Karim,15-59,Pucca,20001-30000,Business,No
+41,25.59546,89.829097,Jannatul Ferdous,0-14,Tinshed,<10000,Craft,No
+42,25.595465,89.829108,Abul Khair,15-59,Tinshed,<10000,Craft,No
+43,25.59562,89.830196,Mariam Khatun,0-14,Pucca,30001-50000,Business,No
+44,25.59562,89.830202,Rafiq Mia,0-14,Pucca,30001-50000,Business,No
+45,25.595615,89.830197,Nasima Begum,0-14,Pucca,30001-50000,Craft,No
+46,25.595625,89.830191,Mustafa Ahmed,15-59,Pucca,30001-50000,Business,No
+47,25.5956,89.830202,Sharmin Yasmin,15-59,Pucca,30001-50000,Business,No
+48,25.59563,89.830186,Kabir Hossain,15-59,Pucca,30001-50000,Business,No
+49,25.595368,89.830486,Fahima Akter,0-14,Pucca,20001-30000,Service,No
+50,25.595378,89.830476,Iqbal Khan,15-59,Pucca,20001-30000,Service,No

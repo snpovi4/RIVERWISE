@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:gravity="center"
+    android:background="#FDFBFB"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Riverwise"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.526"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="245dp"
+        android:src="@drawable/logo"
+        app:layout_constraintBottom_toTopOf="@+id/exp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/exp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="70dp"
+        android:backgroundTint="@color/teal_700"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="7dp"
+            android:gravity="center"
+            android:text="Explore"
+            android:textColor="@color/white"
+            android:textSize="20dp" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="109dp"
+        android:layout_marginEnd="99dp"
+        android:layout_marginBottom="10dp"
+        android:text="Made with 🖤 by NIRVIK"
+        android:textColor="#7E7C7C"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
